@@ -23,6 +23,9 @@ Type practice is a small and lite application build with C++ to practice and ach
 This application is built for Windows platform.
 If you have a Windows platform then you can run it simply by double-click you don't need to install it.
 
+### Download
+Link - [Type Practice Lite](https://sourceforge.net/projects/type-practice-lite/)
+
 ### Runing
 just double click on the downloaded app and then start your typing practice.
 
