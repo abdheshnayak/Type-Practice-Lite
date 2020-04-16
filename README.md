@@ -38,4 +38,4 @@ just double click on the downloaded app and then start your typing practice.
 
 * **Abdhesh Nayak** - [Github](https://github.com/abdheshnayak), [LinkedIn](https://www.linkedin.com/in/abdhesh-nayak/)
 
-See also the list of [contributors](https://github.com/abdheshnayak/TypingGuru/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/abdheshnayak/Type-Practice-Lite/contributors) who participated in this project.
