@@ -1,0 +1,56 @@
+Select A Story
+	1.First Story Name
+	2.Second Story Name
+	3.Third Story Name
+	4.Fourth Story Name
+	5.Fifth Story Name
+	6.Sixth Story Name
+	7.Seven Story Name
+	8.Eight Story Name
+	9.Exit
+		Enter Your Choice:¦9 =>Exit Number (Not allwoed more than 8 Stories)
+
+***** Don't Disturb The Sign which is at the Start And End Of The Story These are The Closing And Starting Tags. For More Information Goto End The File ******
+
+Story 1:
+Û Your First Story Goes Here ¦
+
+
+Story 2:
+Û Your Second Story Goes Here ¦
+
+
+Story 3:
+Û Your Third Story Goes Here ¦
+
+
+Story 4:
+Û Your Fourth Story Goes Here ¦
+
+
+Story 5:
+Û Your Fifth Story Goes Here ¦
+
+
+Story 6:
+Û Your SixthStory Goes Here ¦
+
+
+Story 7:
+Û Your Seventh Story Goes Here ¦
+
+
+Story 8:
+Û Your Eighth Story Goes Here ¦
+
+***End Of Stories ***
+
+Some rule About Editing This File
+1.Dont Disturb the sign (Û and ¦) of Any Where.
+2.Just Replace The text Which is present Between the sing(Û and ¦) With Your Text.
+3.If There Your are Facing any Problem with This File Then You Can Download New File On The Website 
+	prgbook.cf or you can contact By E-Mail Address 
+	Email-drkwb8@gmail.com
+
+
+### THANK YOU VERY MUCH FOR USING THIS APPLICATION #### 
